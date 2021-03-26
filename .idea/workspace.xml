@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ad460f8-ce73-4ca7-94b3-7a2491d64845" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Example/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Example/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NAMbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Validation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case2/.idea/case2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case2/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case2/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case2/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case2/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case2/CaseStudy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../codegyms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laravel-web-login-logout-using-session/resources/views/blog.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laravel-web-login-logout-using-session/resources/views/layouts/master.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laravel-web-login-logout-using-session/resources/views/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/resources/views/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/resources/views/login_error.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/resources/views/welcome_admin.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email-validation/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-customer/resources/views/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-customer/resources/views/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-customer/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manage-customer/resources/views/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../route-demo/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../route-demo/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../route-demo/resources/views/user.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_manager/resources/views/cities/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_manager/resources/views/cities/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_manager/resources/views/cities/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_manager/resources/views/customers/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_manager/resources/views/customers/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_manager/resources/views/customers/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task_manager/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJquery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validation/resources/views/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module2 ss13/test 2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module2 ss13/test 3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module2 ss13/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module2 ss14/Bài tập validate email.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module2 ss14/Thực hành chữ hoa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module2 ss14/test 2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module2 ss14/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module2 ss15/.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module2 ss16/cg-php-mvc-manager-bill-crud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/.idea/mvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/src/controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/src/model/DBconnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/src/model/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/src/model/StudentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/src/view/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/src/view/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/src/view/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/.idea/mvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/src/controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/src/model/DBconnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/src/model/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/src/model/StudentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/src/view/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/src/view/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/src/view/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvc1/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/.idea/mvcOverTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/src/controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/src/model/DBconnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/src/model/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/src/model/StudentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/src/view/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/src/view/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/src/view/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mvcOverTime/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/.idea/nam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/src/controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/src/model/DBconnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/src/model/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/src/model/StudentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/src/view/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/src/view/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/src/view/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nam/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/src/controller/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/src/model/DBconnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/src/model/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/src/model/StudentModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/src/view/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/src/view/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/src/view/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/html.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/html.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1qHKXoODeMC24BB2DiHXHrRBzLH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Customer" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ad460f8-ce73-4ca7-94b3-7a2491d64845" name="Default Changelist" comment="" />
+      <created>1616731117725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616731117725</updated>
+      <workItem from="1616731118778" duration="3619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1616749963850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616749963850" />
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1616747287878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1616747287878" />
+    <state x="478" y="145" width="579" height="534" key="find.popup" timestamp="1616748017786">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="145" width="579" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1616748017786" />
+  </component>
+</project>
